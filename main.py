@@ -225,7 +225,7 @@ def find_stops(minDist, maxTime, segment):
     return stops
 
 
-find_stops(2, 12, segment)
+print(find_stops(2, 12, segment))
 
 # BONUS
 from random import randrange
