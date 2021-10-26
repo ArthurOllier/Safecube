@@ -119,8 +119,8 @@ if __name__ == '__main__':
 else:
     segment = []
 
-HERE_CLIENT_ID = "gEuxcO1Pm_jWwgptu_GHRA"
-HERE_CLIENT_SECRET = "9qKu8XDZC7ev3PU__3BHS3AWaOOhmsskAypf0zejEmAV-XtVTJnIGCPiDAKArSVlE1X3IK6e5AA6mQlzzVhdSg"
+HERE_CLIENT_ID = "."
+HERE_CLIENT_SECRET = "."
 
 
 def fetch_here_reverse_geocoding(lat, lng):
